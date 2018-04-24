@@ -1,0 +1,6 @@
+Partlist exported from C:/Users/Rene/Documents/eagle/DE0 Expansion Header/PCB.sch at 4/23/2018 8:15 PM
+
+Part Value Device     Package Description 
+JP1        PINHD-2X20 2X20    PIN HEADER  
+JP2        PINHD-1X20 1X20    PIN HEADER  
+JP3        PINHD-1X20 1X20    PIN HEADER  
